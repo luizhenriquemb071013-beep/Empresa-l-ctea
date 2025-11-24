@@ -6,11 +6,9 @@
 
 ---
 
-## 📌 Certificado de N1
+## 📌 Título do Projeto
 
-> Breve linha de destaque ou slogan técnico do projeto.
-
-![status](https://img.shields.io/badge/status-em%20andamento-yellow)
+![Lactec]
 
 ---
 
@@ -18,84 +16,37 @@
 
 ### 👥 Alunos
 
-* [Diogo Henrique ](https://www.linkedin.com/in/.../)
-* [Integrante 2](https://www.linkedin.com/in/.../)
-* [Integrante 3](https://www.linkedin.com/in/.../)
-* [Integrante 4](https://www.linkedin.com/in/.../)
-* [Integrante 5](https://www.linkedin.com/in/.../)
+* [Luiz Henrique M. Barbosa]
+* [Arthur Brito]
+* [Haynan Jacob]
+* [Fellipe Augusto]
 
 ### 👔 Docentes e Orientação
 
 * **Orientador(a):** [FRANCISMAR ALVES MARTINS JUNIOR](https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/)
-* **Coordenador(a):** [Nome do Coordenador(a)](#)
+* **Coordenador(a):** [Guilherme Nogueira](#)
 
 ---
-
-## 🔬 1️⃣ Modelo para Pesquisa e Relatórios Científicos
 
 ### 📝 Resumo
 
-> Texto conciso (150–250 palavras) apresentando o contexto, motivação, método utilizado e conclusões.
-
-### 🎯 Palavras‑chave
-
-Ex.: Anomalia, Classificação, Machine Learning, Eficiência Computacional.
+> Este trabalho foi feito com o intuto de solucionar o problema de uma empresa lactea, relacionado a temperatura do leite, do momento retirada do produto ate a chegada nos comercios.
 
 ### 🕹️ Introdução
 
-* Contextualização e importância do estudo.
-* Problema identificado.
-* Objetivos e escopo.
-
-### ⚡️ Metodologia
-
-* Descrição dos métodos e técnicas aplicadas.
-* Linguagem e Frameworks usados (Ex.: Python, Scikit‑Learn).
-* Etapas do experimento e critérios de avaliação.
-
-### 📊 Resultados e Discussões
-
-* Apresentação dos dados obtidos (tabelas, gráficos).
-* Análises e comparações com trabalhos correlatos.
+* Uma empresa da area de lactação veio até nos com o intuito de solucionar seu problema.
+* Problema em questão é a falta de monitoramento da temperatura do leite.
+* O objetivo é construir um sensor termico para monitorar a temperatura.
 
 ### 🏁 Conclusões e Trabalhos Futuros
 
-* Resultado final e impacto esperado.
-* Limitações do estudo atual e caminhos para futuras pesquisas.
-
-### 📚 Referências Bibliográficas
-
-> Listagem de artigos, livros e demais fontes citadas (ABNT, APA ou outro padrão requerido).
-
-### ⚡️ Anexos e Links
-
-* Scripts, dataset e demais arquivos de suporte (`src/` e `documents/other/`).
-* Link para vídeo de demonstração no YouTube (se aplicável).
-
----
-
-## 💻 2️⃣ Modelo para Disciplinas Específicas (Ex.: Engenharia de Software, IA, Banco de Dados)
+* O resultado final foi a comclusão do progeto, no qual emite alertas sonoros e visuais quando a temperatura chega aos extremos.
 
 ### 📄 Identificação
 
-* Disciplina: Ex.: Engenharia de Software, IA, Banco de Dados
-* Professor(a): [Nome do Professor(a)](#)
+* Disciplina: Arquitetura e Organização de Computadores
+* Professor(a): [FRANCISMAR ALVES MARTINS JUNIOR](#)
 
-### 🎯 Tema e Contextualização
-
-> Breve apresentação do tema abordado e importância para a área de estudo.
-
-### 🗺️ Especificações do Projeto
-
-* **Requisitos Funcionais e Não Funcionais**
-* **Regras de Negócio** ou escopo técnico específico para a área.
-
-### ⚡️ Arquitetura e Stack Utilizado
-
-* **Linguagem de Programação:** Ex.: Java, Python, C#
-* **Framework(s):** Ex.: Spring Boot, Django, React
-* **Banco de Dados:** Ex.: PostgreSQL, MySQL
-* **Bibliotecas e Ferramentas de Suporte:** Ex.: Pandas, Scikit‑Learn, JUnit
 
 ### 🛠️ Estrutura do Repositório
 
@@ -113,34 +64,9 @@ templatesUNIBRAS/
 ├─ README.md
 ```
 
-### ⚡️ Instruções para Build e Execução
-
-Exemplo para ambiente Java + Maven:
-
-```bash
-mvn clean install
-mvn spring-boot:run
-```
-
-Exemplo para ambiente Python:
-
-```bash
-pip install -r requirements.txt
-python app.py
-```
-
 ### 📷 Evidências Visuais
 
-> Adição de capturas de tela e vídeos para demonstrar:
-
-* Resultado de operações no Banco de Dados.
-* Testes automatizados e relatório de cobertura.
-* Output e interface gráfica do sistema.
-
-Ex.:
-![Exemplo de Resultado Final](assets/screenshot.png)
-
-👉 [Assista à Demonstração do Sistema no YouTube](https://www.youtube.com/watch?v=EXEMPLO)
+![Exemplo de Resultado Final](assets/wokwi.png)
 
 ---
 
@@ -149,16 +75,6 @@ Ex.:
 * Qualidade e clareza do código-fonte.
 * Adequação às normas e padrões de projeto.
 * Resultado final (usabilidade e eficiência técnica).
-
----
-
-## 📅 Histórico de Versões
-
-* **v0.5.0** - DD/MM/AAAA — Descrição técnica das mudanças implementadas.
-* **v0.4.0** - DD/MM/AAAA — Melhorias e refatorações para otimização de performance.
-* **v0.3.0** - DD/MM/AAAA — Adição de novas funcionalidades e integração de APIs.
-* **v0.2.0** - DD/MM/AAAA — Correções e ajuste de estrutura de dados.
-* **v0.1.0** - DD/MM/AAAA — Lançamento inicial e estrutura básica do projeto.
 
 ---
 
