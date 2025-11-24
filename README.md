@@ -30,17 +30,17 @@
 
 ### 📝 Resumo
 
-> Este trabalho foi feito com o intuto de solucionar o problema de uma empresa lactea, relacionado a temperatura do leite, do momento retirada do produto ate a chegada nos comercios.
+> Este trabalho foi feito com o intuito de solucionar o problema de uma empresa láctea, relacionado à temperatura do leite, desde o momento da retirada do produto até a chegada nos comércios.
 
 ### 🕹️ Introdução
 
-* Uma empresa da area de lactação veio até nos com o intuito de solucionar seu problema.
-* Problema em questão é a falta de monitoramento da temperatura do leite.
-* O objetivo é construir um sensor termico para monitorar a temperatura.
-
+* Uma empresa da área de laticínios veio até nós com o intuito de solucionar seu problema.
+* O problema em questão é a falta de monitoramento da temperatura do leite.
+* O objetivo é construir um sensor térmico para monitorar essa temperatura.
+  
 ### 🏁 Conclusões e Trabalhos Futuros
 
-* O resultado final foi a comclusão do progeto, no qual emite alertas sonoros e visuais quando a temperatura chega aos extremos.
+* O resultado final foi a conclusão do projeto, no qual são emitidos alertas sonoros e visuais quando a temperatura chega aos extremos.
 
 ### 📄 Identificação
 
