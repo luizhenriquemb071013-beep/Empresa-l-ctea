@@ -20,6 +20,8 @@
 * [Arthur Brito]
 * [Haynan Jacob]
 * [Fellipe Augusto]
+* [Marcelo]
+* [vitor]
 
 ### 👔 Docentes e Orientação
 
