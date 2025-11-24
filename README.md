@@ -64,6 +64,11 @@ templatesUNIBRAS/
 ├─ README.md
 ```
 
+
+### link do wokwi
+
+(https://wokwi.com/projects/448507547055723521)
+
 ### 📷 Evidências Visuais
 
 ![Exemplo de Resultado Final](assets/wokwi.png)
