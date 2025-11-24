@@ -8,7 +8,7 @@
 
 ## 📌 Título do Projeto
 
-![Lactec]
+## 🏭🥛 Lactec
 
 ---
 
